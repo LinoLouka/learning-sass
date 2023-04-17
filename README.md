@@ -10,7 +10,6 @@ Dont't use JS of course
     <img src="https://skillicons.dev/icons?i=html,css,sass" />
   </a>
 </p>
-## Authors
 
 - [@L0ukaramel](https://github.com/LinoLouka)
 
